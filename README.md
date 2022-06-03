@@ -1,6 +1,3 @@
-# cit281-lab3
-The purpose of this lab is to practice object destructuring and importing functions
-
 ## Lab goals and outcomes:
 
 - Practice refactoring JavaScript code to use more modern syntax
